@@ -170,7 +170,7 @@
     "js-data": "3.0.8",
     "js-data-express": "1.0.1",
     "js-data-http": "3.0.1",
-    "marked": "0.8.2",
+    "marked": "4.0.10",
     "minimist": "1.2.5",
     "ngx-file-drop": "6.0.1",
     "ngx-lightbox": "1.2.0",
